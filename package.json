@@ -1,0 +1,27 @@
+{
+  "name": "@skuyjs/http-plugin-view",
+  "version": "0.0.1",
+  "description": "View engine plugin for @skuyjs/http-server",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skuyjs/http-plugin-view.git"
+  },
+  "keywords": [
+    "skuyjs",
+    "view",
+    "nodejs"
+  ],
+  "author": "Hadi Hidayat Hammurabi <hadihammurabi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skuyjs/http-plugin-view/issues"
+  },
+  "homepage": "https://github.com/skuyjs/http-plugin-view#readme"
+}
