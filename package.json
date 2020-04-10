@@ -1,6 +1,6 @@
 {
   "name": "@skuyjs/http-plugin-view",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "View engine plugin for @skuyjs/http-server",
   "main": "index.js",
   "directories": {
